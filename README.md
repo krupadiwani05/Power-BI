@@ -1,29 +1,28 @@
-# 📊 Sales Dashboard
+# 📊 Population Demographics Analysis
 
-> Turning sales data into clear business insights.
+> Turning data into meaningful insights.
 
-An interactive dashboard built to analyze **sales performance, customer segments, shipping costs, order priorities, and monthly sales trends**.
+An interactive Power BI dashboard designed to explore data through visualizations, key metrics, and interactive filters.
 
 ## Dashboard
 
-![Sales Dashboard](Sales_Dashboard.png)
+![Population Demographics Analysis](Population_Demographics_Dashboard.png)
 
 ## Analysis
 
-- Sales by gender and customer segment
-- Monthly sales trends across segments
-- Sales and shipping cost by segment
-- Sales distribution by order priority
-- Customer and segment analysis
-- Year, month, and order-priority filtering
+- Category-wise data analysis
+- Monthly trends and comparisons
+- Segment-wise performance
+- Distribution analysis
+- Interactive filtering by year and other categories
 
 ## Key Metrics
 
-- 💰 Total Sales — **15.69M**
-- 👥 Customers — **300**
-- 📉 Minimum Profit — **11.37**
-- 📦 Average Quantity — **5.04**
-- 📈 Maximum Profit — **999.17**
+- Total Sales — 15.69M
+- Customer Count — 300
+- Minimum Profit — 11.37
+- Average Quantity — 5.04
+- Maximum Profit — 999.17
 
 ## Tools
 
@@ -31,8 +30,8 @@ An interactive dashboard built to analyze **sales performance, customer segments
 
 ## Objective
 
-Analyze sales data to identify **customer, segment, monthly, and order-priority trends** and turn them into meaningful business insights.
+Explore data through interactive dashboards and transform numerical information into clear, meaningful visual insights.
 
 ---
 
-> "Good dashboards don't just show numbers. They make the numbers easier to understand."
+> "Good analysis turns data into understanding."
